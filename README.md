@@ -21,15 +21,15 @@
   screenshot here later
 
 В Grafana импортируем новый дашборд при помощи json-конфигурации из
-файла `dashboard.json`
+файла `configs/dashboard.json`
   screenshot here later
 
 Для стресс тестов был выбран Postman
-Конфиг коллекции в файле `devops_test.postman_collection.json`
+Конфиг коллекции в файле `configs/devops_test.postman_collection.json`
 Для запуска коллекции были выбраны следующие настройки:
   screenshot here later
 
-По результатам тестирования TBD 
+По результатам тестирования TBD
 
 
 # Тестовое задание
