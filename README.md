@@ -1,7 +1,3 @@
-# Ссылка на тестовое задание
-
-https://gitlab.com/frol/devops-flask-test
-
 # Решение тестового задания
 
 1. Для приложения `app,py` был написан Dockerfile
